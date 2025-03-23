@@ -1,0 +1,6 @@
+[submodule "cloudy-frontend"]
+	path = cloudy-frontend
+	url = https://github.com/dhrvrc/cloudy-frontend.git
+[submodule "cloudy-backend"]
+	path = cloudy-backend
+	url = https://github.com/dhrvrc/cloudy-backend.git
